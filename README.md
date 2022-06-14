@@ -13,7 +13,7 @@
 </p>
 
 <h4 align="center">
-	Status: 🚧 Em Construção
+	Status: 🚀 Finished
 </h4>
 
 <p align="center">
@@ -38,7 +38,14 @@ To use this project, follow the steps above:
 ```bash
 $ npm install 
 
-$ npm run dev
+Usar o comando $ npm run dev para iniciar o servidor e criar a tabela de users
+
+Parar o servidor e rodar o comando $ npm run migrate para criar as tabelas de movies e tags
+
+Apos esses passos rodar o comando $ npm run dev para rodar a aplicação.
+
+
+
 ```
 
 ## Contact
