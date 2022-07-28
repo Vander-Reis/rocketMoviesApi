@@ -20,7 +20,7 @@ class UserController {
 
     response.status(201).json();
 
-  }
+  } 
 
   async update(request, response) {
 
